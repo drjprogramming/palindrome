@@ -1,0 +1,25 @@
+{
+  "name": "drjprogramming-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "homepage": "https://github.com/drjprogramming/palindrome#readme",
+  "bugs": {
+    "url": "https://github.com/drjprogramming/palindrome/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drjprogramming/palindrome.git"
+  },
+  "license": "ISC",
+  "author": "Daniel Joiner",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  }
+}
